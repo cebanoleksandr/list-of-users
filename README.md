@@ -8,3 +8,5 @@ A favorites page has been implemented to store cards of favorite posts.
 
 There is a separate post page where you can view the post itself and read comments on it.
 
+You can see the website on `https://cebanoleksandr.github.io/list-of-users/`
+Also you can watch the demo `video https://www.youtube.com/watch?si=ws4DO8tS-b7CZEpp&v=aGjBZUt4wdY&feature=youtu.be`
