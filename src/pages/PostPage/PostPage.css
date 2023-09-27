@@ -1,0 +1,19 @@
+.loading-error {
+  color: red;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.post-page {
+  display: flex;
+}
+
+.post-content {
+  width: 60%;
+  padding: 10px;
+}
+
+.comments {
+  width: 40%;
+  padding: 10px;
+}

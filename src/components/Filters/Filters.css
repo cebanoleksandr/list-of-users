@@ -1,0 +1,20 @@
+.filter {
+  width: 30%;
+}
+
+@media (max-width: 767px) {
+  .filter {
+    width: 80%;
+    margin: 0 auto 10px;
+  }
+}
+
+.search {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,29 @@
+.loading-error {
+  color: red;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.home-content {
+  display: flex;
+}
+
+@media (max-width: 767px) {
+  .home-content {
+    flex-direction: column-reverse;
+  }
+}
+
+.users-list {
+  width: 70%;
+}
+
+@media (max-width: 767px) {
+  .users-list {
+    width: 100%;
+  }
+}
+
+.users-filter {
+  width: 30%;
+}

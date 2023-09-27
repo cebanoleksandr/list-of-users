@@ -1,0 +1,37 @@
+.post-item {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: all .5s;
+}
+
+.post-item:hover {
+  transform: scale(1.05);
+  border: 1px solid rgb(56, 138, 56);
+}
+
+.btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.like {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.author-link {
+  color: rgb(134, 134, 134);
+  text-decoration: none;
+}
+
+.author-link:hover {
+  color: rgb(78, 78, 78);
+}

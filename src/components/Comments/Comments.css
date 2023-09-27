@@ -1,0 +1,14 @@
+.loading-error {
+  color: red;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.comments {
+  width: 40%;
+  padding: 10px;
+}
+
+.author-email {
+  font-weight: bold;
+}
